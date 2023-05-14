@@ -1,6 +1,6 @@
 {
     "name": "Info Plus",
-    "description": "",
+    "description": "This extension expands the `INFO` category, giving you the ability to show/hide the stats, change the life image and customize the stat colors.",
     "dependencies": {
         "device": "*"
     },
